@@ -1,0 +1,50 @@
+
+body {
+  background:url(langit.jpg);
+
+}
+
+.container {
+  text-align: center;
+  margin-top:30px;
+  
+}
+
+img {
+  border-radius:10px;
+  width:150px;
+}
+
+.gambar1 {
+  margin-bottom:50px;
+}
+
+.foto1{
+  margin-right:10px;
+}
+
+.gambar2 {
+  margin-bottom:50px;
+}
+
+.foto3{
+  margin-right:10px;
+}
+
+.foto5 {
+  margin-right:10px;
+}
+
+.footer {
+  display:flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.sad {
+  color:white;
+  font-size:40px;
+  font-weight: bold;
+ 
+}
+
